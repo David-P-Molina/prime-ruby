@@ -13,7 +13,7 @@ You'll be defining a method, `prime?()`, that takes in an integer argument and r
 
 A few things to think about:
 
-* What defines an integer as a prime number? Research algorithms for how to determine if a number is prime.
+* What defines an integer as a prime number? Research algorithms for how to determine if a number is prime.-integer is a whole number and a prime number is greater than 1 and is not a product of two smaller natural numbers
 * How do you create a range of numbers? How do you turn a range into an array so that it can be iterated over?
 
 Requirements:
